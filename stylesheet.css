@@ -1,0 +1,47 @@
+h1{
+    font-size: x-large;
+    text-align: center;
+    color: rgb(135, 11, 36);
+    background-color: black;
+}
+body{
+    background-color: black;
+    color: aliceblue;
+}
+nav{
+    color: brown;
+    background-color: black;
+    position: fixed;
+    border: 5px solid rgb(47, 3, 3);
+}
+button{
+    background-color: rgb(39, 11, 11);
+}
+h2{
+    font-size: medium;
+    color: rgb(177, 34, 34);
+    line-height: 1cm;
+    text-decoration: underline;
+}
+img#sectiononepicone{
+    width: 20%;
+}
+img#sectiononepictwo{
+    width: 20%;
+}
+img#sectiononepicthree{
+    width: 20%;
+}
+div.sectionone{
+    margin: 30px;
+    display: flex;
+}
+h2.sectiontwo{
+    text-align: center;
+    text-decoration: underline;
+}
+p.SectionTwo{
+    text-align: center;
+}
+
+
