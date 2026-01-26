@@ -33,6 +33,14 @@ img#sectiononepictwo{
 img#sectiononepicthree{
     width: 20%;
 }
+div.sectionone{
+    margin: 30px;
+    display: flex;
+}
+h2.sectiontwo{
+    text-align: center;
+    text-decoration: underline;
+}
 
 
 
