@@ -4,6 +4,19 @@ h1{
     color: rgb(135, 11, 36);
     background-color: black;
 }
+body{
+    background-color: black;
+    color: aliceblue;
+}
+nav{
+    color: brown;
+    background-color: black;
+    position: fixed;
+    border: 5px solid rgb(47, 3, 3);
+}
+button{
+    background-color: rgb(39, 11, 11);
+}
 
 
 
