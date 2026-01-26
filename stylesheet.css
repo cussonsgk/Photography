@@ -22,7 +22,6 @@ h2{
     color: rgb(177, 34, 34);
     line-height: 1cm;
     text-decoration: underline;
-    position: sticky;
 }
 img#sectiononepicone{
     width: 20%;
@@ -41,7 +40,7 @@ h2.sectiontwo{
     text-align: center;
     text-decoration: underline;
 }
-
-
-
-
+p.SectionTwo{
+    text-align: center;
+    position: sticky;
+}
