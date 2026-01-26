@@ -17,6 +17,12 @@ nav{
 button{
     background-color: rgb(39, 11, 11);
 }
+h2{
+    font-size: medium;
+    color: rgb(177, 34, 34);
+    line-height: 1cm;
+    text-decoration: underline;
+}
 
 
 
