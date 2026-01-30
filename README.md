@@ -2,6 +2,9 @@
 ## Lucy's Phototgraphy Portfolio
 A website showcasing my favorite pictures, with a biography of my inspirations and main subjects.
 
+## Code info
+Languages used: Html and CSS
+
 ## Author
 Lucy Kamau
 
